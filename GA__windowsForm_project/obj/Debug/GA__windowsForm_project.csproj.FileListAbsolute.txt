@@ -1,0 +1,11 @@
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\bin\Debug\GA__windowsForm_project.exe.config
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\bin\Debug\GA__windowsForm_project.exe
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\bin\Debug\GA__windowsForm_project.pdb
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.Form1.resources
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.Form2.resources
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.Properties.Resources.resources
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.csproj.GenerateResource.cache
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.csproj.CoreCompileInputs.cache
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.exe
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.pdb
+C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.csprojAssemblyReference.cache
