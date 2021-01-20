@@ -9,3 +9,6 @@ C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_pro
 C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.exe
 C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.pdb
 C:\Users\aahj\Downloads\Simple_GeneticAlgorithm\windows form\GA__windowsForm_project\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.csprojAssemblyReference.cache
+C:\Users\marsa\Desktop\Ai Project\Simple-Genetic-Algorithm-Project-AI\GA__windowsForm_project\bin\Debug\GA__windowsForm_project.exe.config
+C:\Users\marsa\Desktop\Ai Project\Simple-Genetic-Algorithm-Project-AI\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.exe
+C:\Users\marsa\Desktop\Ai Project\Simple-Genetic-Algorithm-Project-AI\GA__windowsForm_project\obj\Debug\GA__windowsForm_project.pdb
